@@ -1,5 +1,8 @@
+body,html {
+ min-height:100%;
+}
 body {
-	margin-top: 30px:;
+ position:relative;
 background: rgb(181,221,213); /* Old browsers */
 background: -moz-linear-gradient(top,  rgba(181,221,213,1) 0%, rgba(227,255,137,1) 50%, rgba(178,137,151,1) 100%); /* FF3.6+ */
 background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(181,221,213,1)), color-stop(50%,rgba(227,255,137,1)), color-stop(100%,rgba(178,137,151,1))); /* Chrome,Safari4+ */
